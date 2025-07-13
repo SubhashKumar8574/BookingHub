@@ -4,8 +4,8 @@ A modern and responsive booking platform built with **React**, **Vite**, and **T
 
 🌐 **Live Demo**: [https://bookinghubsubhash.netlify.app](https://bookinghubsubhash.netlify.app)
 
-![BookingHub Banner](screenshots/banner.png)
-
+![BookingHub Banner Dark Theme](public/bookinghub.png) 
+![BookingHub Banner Light Theme](public/bookinghub2.png)
 ## ✨ Features
 
 - Clean, purple-themed UI with dark/light mode
